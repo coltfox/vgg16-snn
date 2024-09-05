@@ -1,1 +1,2 @@
 training/vgg16.weights.h5 filter=lfs diff=lfs merge=lfs -text
+training/keras_to_snn_params filter=lfs diff=lfs merge=lfs -text
