@@ -2,7 +2,6 @@ nengo==4.0.0
 nengo_dl==3.6.0
 numpy==1.23.5
 tensorflow==2.11
-keras==2.10.0
-matplotlib==3.9.2
-scipy==1.14.1
+matplotlib
+scipy
 ipykernel
